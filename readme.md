@@ -10,7 +10,7 @@ This course introduces a range of topics in artificial intelligence including cl
 Required Resources
 ------------------
 
-- Deep Learning. Goodfellow, I., Bengio, Y., Courville, A. [Freely available online](https://www.deeplearningbook.org/)
+- Deep Learning. Goodfellow, I., Bengio, Y., Courville, A. [Freely available online](http://www.deeplearningbook.org/)
 
 Optional Resources
 ------------------
