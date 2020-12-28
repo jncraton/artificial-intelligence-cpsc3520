@@ -15,6 +15,8 @@ Required Resources
 Optional Resources
 ------------------
 
+- Artificial Intelligence: A Modern Approach. Russel, S., Norvig, P.
+
 Course objectives
 -----------------
 
