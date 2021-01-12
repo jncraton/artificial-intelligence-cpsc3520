@@ -46,6 +46,6 @@ Regular quizzes will be given covering the lecture material. Students will have 
 
 ### Exams
 
-A total of 3 exams will be taken in this course. All exams are cumulative with a focus on more recent material.
+Several exams will be taken in this course. All exams are cumulative with a focus on more recent material.
 
 !INCLUDE "tail.md"
