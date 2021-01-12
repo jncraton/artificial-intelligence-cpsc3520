@@ -36,13 +36,13 @@ Please refer to Canvas for a list of assignments and detailed grading breakdown.
 
 Students will complete several projects and presentations over the course of the semester sharing knowledge of specific areas of interest with their peers.
 
-### Labs and Homework
+### Labs
 
-Students will complete regular labs using various data science technologies. Students will also complete homework assignments covering various topics from the course text.
+Students will complete regular labs using various artificial intelligence technologies.
 
-### Quizzes
+### Quizzes and Homework
 
-Regular quizzes will be given covering the lecture material. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest three quiz scores from the semester will not count toward the final grade.
+Regular quizzes will be given covering the lecture material. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest three quiz scores from the semester will not count toward the final grade. Students will also complete homework assignments covering various topics from the course text.
 
 ### Exams
 
