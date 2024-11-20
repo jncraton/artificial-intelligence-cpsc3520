@@ -55,7 +55,7 @@ spellcheck:
 	aspell --home-dir=. --check --dont-backup head.md
 	aspell --home-dir=. --check --dont-backup tail.md
 	aspell --home-dir=. --check --dont-backup env.md
-	for f in lectures/*.md; do aspell --home-dir=. --check --dont-backup "$$f"; done
+	for f in lectures/**.md; do aspell --home-dir=. --check --dont-backup "$$f"; done
 
 lectures/all.md:
 	rm -f lectures/all.md # This must be deleted, or it will be included in itself and hang the build
