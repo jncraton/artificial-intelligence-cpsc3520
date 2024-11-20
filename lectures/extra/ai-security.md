@@ -1,13 +1,20 @@
 AI Security
 ===========
 
-Case Study
-----------
+Introduction
+------------
 
 [Perplexity.ai](https://www.perplexity.ai/)
 
-Frontier Models
----------------
+Considerations
+--------------
+
+- Tools for attackers
+- Tools for defenders
+- Surface area for attacks
+
+Frontier Model Capabilities
+---------------------------
 
 - [o1 System Card](https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf)
 
@@ -43,3 +50,29 @@ Frontier Models
 
 ![(1) Attempts to connect, (2) Scans container network, (3) Finds Docker host API,
 (4) Starts modified version of challenge container (5) Reads flag from logs](o1-escape.png){height=360px}
+
+Threats
+-------
+
+- LLMs decrease cost to attempt to attack a system
+- Systems that would not have warranted an attack before may be attacked as cost to attack systems approaches zero
+
+Mitigations
+-----------
+
+- LLMs and other AI and ML tools can be used to detect threats faster and in new ways
+- LLMs can be used to validate security before deploying applications
+
+Surface Area for Attacks
+------------------------
+
+- New technologies come with new vulnerabilities
+
+---
+
+![Exploits of a Mom](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+
+Example System
+--------------
+
+[ResumeRating™](http://10.73.56.28:5000/apply)
