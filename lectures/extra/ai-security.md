@@ -70,7 +70,7 @@ Surface Area for Attacks
 
 ---
 
-![Exploits of a Mom](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+![Exploits of a Mom](https://imgs.xkcd.com/comics/exploits_of_a_mom.png){height=360px}
 
 Example System
 --------------
