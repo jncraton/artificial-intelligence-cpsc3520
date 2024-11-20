@@ -1,4 +1,4 @@
-personal_ws-1.1 en 122 
+personal_ws-1.1 en 129 
 Backpropogation
 COVID
 CPSC
@@ -10,6 +10,7 @@ DALL
 DFA
 DFAs
 Deontological
+Dota
 Engish
 Feedforward
 GPT
@@ -22,12 +23,14 @@ Jezero
 KACE
 Kurzweil
 Kurzweil's
+LSTM
 Lemmatization
 Lidar
 MCTS
 MNIST
 Maslow's
 Minimax
+Modelling
 Multiagent
 Multihead
 Multilayer
@@ -41,12 +44,15 @@ POS
 Percepts
 Playout
 QEMU
+RNN
 RNNs
 Reardon
 Rightarrow
 Satisficing
 Snak
 Snaks
+SotA
+StarCraft
 Subsample
 Tokenization
 Unobservable
@@ -87,6 +93,7 @@ minimax
 natively
 ontologies
 operatorname
+parallelization
 parallelize
 percept
 percepts
