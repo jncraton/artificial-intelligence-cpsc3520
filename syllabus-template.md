@@ -1,16 +1,17 @@
-CPSC 3520 Intro to AI
-=====================
+CPSC 3550 Foundations of AI
+===========================
 
 !INCLUDE "head.md"
 
 Course Catalog Description
 --------------------------
-This course introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference, Bayesian networks and statistical inference, and machine learning. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects.
+
+This course introduces a range of topics in artificial intelligence including classical search algorithms, knowledge bases and logical inference. Emphasis is given to applications of these techniques. Students are required to implement many of the algorithms discussed throughout the course in the form of multiple larger projects.
 
 Required Resources
 ------------------
 
-- Deep Learning. Goodfellow, I., Bengio, Y., Courville, A. [Freely available online](http://www.deeplearningbook.org/)
+- None
 
 Optional Resources
 ------------------
@@ -24,8 +25,6 @@ Upon completion of this course, students will be able to:
 
 - Implement search algorithms and understand their relationship to artificial intelligence.
 - Describe knowledge bases and expert systems.
-- Reason about simple inference algorithms such as logistic regression and Bayesian networks.
-- Create algorithms using statistical inference and machine learning.
 
 Course Overview
 ---------------
