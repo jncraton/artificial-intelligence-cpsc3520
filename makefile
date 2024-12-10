@@ -1,3 +1,5 @@
+SHELL := bash -O nullglob
+
 all: index.html syllabus.md syllabus.html syllabus.docx syllabus.txt syllabus.pdf env.html lectures/index.html examples/index.html
 
 .PHONY: clean lectures
@@ -50,12 +52,15 @@ lectures:
 	for file in lectures/*.md.html; do \
 	    mv -- "$$file" "$$(echo $$file | sed 's/.md//')"; \
 	done
+	for file in lectures/media/*.puml; do \
+	    plantuml -output .. "$$file"; \
+	done
 
 spellcheck:
 	aspell --home-dir=. --check --dont-backup head.md
 	aspell --home-dir=. --check --dont-backup tail.md
 	aspell --home-dir=. --check --dont-backup env.md
-	for f in lectures/**.md; do aspell --home-dir=. --check --dont-backup "$$f"; done
+	for f in lectures/*.md; do aspell --home-dir=. --check --dont-backup "$$f"; done
 
 lectures/all.md:
 	rm -f lectures/all.md # This must be deleted, or it will be included in itself and hang the build
@@ -72,7 +77,7 @@ lectures/index.html: lectures lectures/all.html lectures/all-slides.html lecture
 	pandoc lectures/index.md -o $@
 
 examples/index.html:
-	cd examples && tree -H '.' -L 1 --noreport --charset utf-8 -P "*" > index.html
+	cd examples && tree -H '.' -L 1 --noreport --charset utf-8 -P "*" | sponge index.html
 
 lectures/reveal.js:
 	cd lectures && git clone --depth=1 --branch 3.9.2 https://github.com/hakimel/reveal.js
@@ -108,6 +113,7 @@ clean:
 	rm -rf pandoc*
 	rm -f index.html index.md syllabus.md syllabus.docx syllabus.html syllabus.pdf env.html *.pdf
 	rm -rf lectures/**.html lectures/all.md lectures/index.md
+	rm -rf lectures/*.png
 	rm -rf examples/index.html
 	find lectures -name "*.html" -exec rm -f {} \;
 	rm -rf figures

@@ -1,7 +1,7 @@
 CPSC 3520 Intro to AI
 =====================
 
-Fall 2024
+Spring 2025
 
 <main>
 
@@ -12,10 +12,11 @@ Fall 2024
 Office hours
 ------------
 
-- Monday: 2pm - 3pm
-- Tuesday: 9am - 10am, 2pm - 3pm
-- Wednesday: 11am - noon, 2pm - 3pm
-- Friday: 11am - noon, 1pm - 3pm
+- Monday: 1pm - 3pm
+- Tuesday: 1pm - 3pm
+- Wednesday: 2pm - 3pm
+- Thursday: 9am - 11am
+- Friday: 11am - noon
 - Schedule a meeting during office hours: [joncraton.com/meet](https://joncraton.com/meet)
 
 Course Catalog Description
@@ -68,21 +69,20 @@ Grading Scale
 
 The following standard grading scale is used to map percentages to letter grades:
 
-Letter Grade   Percentage
-------------   ----------
-A              93-100%
-A-             90-93%
-B+             87-90%
-B              83-87%
-B-             80-83%
-C+             77-80%
-C              73-77%
-C-             70-73%
-D+             67-70%
-D              63-67%
-D-             60-63%
-F              0-60%
-------------   --------
+| Letter Grade | Percentage |
+| --- | --- |
+| A | 93-100% |
+| A- | 90-93% |
+| B+ | 87-90% |
+| B | 83-87% |
+| B- | 80-83% |
+| C+ | 77-80% |
+| C | 73-77% |
+| C- | 70-73% |
+| D+ | 67-70% |
+| D | 63-67% |
+| D- | 60-63% |
+| F | 0-60% |
 
 Late Assignments
 ----------------
