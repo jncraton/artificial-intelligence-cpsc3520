@@ -1,0 +1,19 @@
+type	name	reading
+discussion	Intro
+lab	Python and Github Setup
+discussion	1950s, Dartmouth Workshop, Cognitive Revolution
+lab	GIL: What is the Turing Test?
+discussion	Hype vs Reality
+lab	GIL: First AI Winter
+discussion	Expert Systems
+lab	Wikidata
+discussion	Generalizing to out-of-distribution inputs
+lab	GIL: Second AI Winter - Expert systems fail to deliver
+lecture	Agents
+lab	Lander
+lecture	World Model
+lab	Vacuum
+lecture Search
+lab	GIL: Search algorithms
+lecture	Game Theory
+lab	Tic-tac-toe
