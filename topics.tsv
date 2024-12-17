@@ -5,15 +5,27 @@ discussion	1950s, Dartmouth Workshop, Cognitive Revolution
 lab	GIL: What is the Turing Test?
 discussion	Hype vs Reality
 lab	GIL: First AI Winter
+discussion	Knowledge Represenation
+lab	Custom knowledge base
 discussion	Expert Systems
 lab	Wikidata
 discussion	Generalizing to out-of-distribution inputs
 lab	GIL: Second AI Winter - Expert systems fail to deliver
 lecture	Agents
 lab	Lander
+exam	Midterm Exam
+lab	Exam Summary and discussion
 lecture	World Model
 lab	Vacuum
-lecture Search
+discussion	Search intro
+lab	Depth first search
+discussion	DFS, BFS, A*
 lab	GIL: Search algorithms
 lecture	Game Theory
 lab	Tic-tac-toe
+discussion	Project
+lab	Project
+discussion	Project
+lab	Project
+discussion	Project
+lab	Final Project Presentation
