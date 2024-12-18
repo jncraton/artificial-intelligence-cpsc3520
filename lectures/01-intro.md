@@ -59,7 +59,23 @@ Is a newborn baby intelligent?
 
 Can a machine be intelligent?
 
+Artificial Intelligence
+=======================
+
+What is AI?
+-----------
+
+- Rationality - the ability to do the "right thing" vs comparison to human performance
+- Thought processes and reasoning vs external behavior
+
 ---
 
-- Lab Friday
-- Reading assignment due Tuesday
+> Artificial intelligence is the science of making machines do things that would require intelligence if done by humans. 
+>
+> -Marvin Minsky (1968)
+
+---
+
+> A computer would deserve to be called intelligent if it could deceive a human into believing that it was human. 
+>
+> -Alan Turing (1950)
