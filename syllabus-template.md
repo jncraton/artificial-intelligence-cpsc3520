@@ -11,7 +11,7 @@ This course introduces a range of topics in artificial intelligence including cl
 Required Resources
 ------------------
 
-- None
+- [Course Lecture Notes (Free)](https://jncraton.github.io/artificial-intelligence-cpsc3520/lectures)
 
 Optional Resources
 ------------------
