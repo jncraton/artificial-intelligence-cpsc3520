@@ -1,5 +1,5 @@
-CPSC 3520 Artificial Intelligence
-=================================
+CPSC 3550 Foundations of AI
+===========================
 
 About Me
 --------
@@ -13,7 +13,7 @@ Introductions
 
 - Name
 - Favorite thing you did over break?
-- What are you hoping to take away from this class
+- What are you hoping to take away from this class?
 
 ---
 
@@ -70,7 +70,7 @@ What is AI?
 
 ---
 
-> Artificial intelligence is the science of making machines do things that would require intelligence if done by humans. 
+> Artificial intelligence is the science of making machines do things that would require intelligence if done by humans.
 >
 > -Marvin Minsky (1968)
 
