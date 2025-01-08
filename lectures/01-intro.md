@@ -15,10 +15,6 @@ Introductions
 - Favorite thing you did over break?
 - What are you hoping to take away from this class?
 
----
-
-![Maslow's Hierarchy of Needs](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MaslowsHierarchyOfNeeds.svg/640px-MaslowsHierarchyOfNeeds.svg.png)
-
 Syllabus
 --------
 
