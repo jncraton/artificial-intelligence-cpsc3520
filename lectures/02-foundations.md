@@ -14,8 +14,8 @@ Computers
 
 - Date back hundreds or thousands of years in their most basic form
 - Can determine results by following rules
-- Appear to be wholly different than our own minds
-- Can solve many of the same problem, such as multiplication
+- **Appear** to be entirely different than our own minds
+- Can solve many of the same problems, such as multiplication
 
 Dualism
 -------
@@ -27,8 +27,8 @@ Dualism
 Materialism
 -----------
 
-- The mind operating by the laws of physics is the mind
 - There is no separate mind that exists outside of nature
+- The mind is operating by the laws of physics
 
 Knowledge acquisition
 --------------------
@@ -93,7 +93,7 @@ Probability
 Statistics
 ----------
 
-- Combines probability theory with data to derive knowledge from
+- Combines probability theory with data to derive knowledge
 
 Decision Theory
 ---------------
