@@ -59,7 +59,7 @@ Actions
 Utility
 -------
 
-- Function to measure the expected value of an outcome
+- Function to measure the expected benefit of an outcome
 
 Utilitarianism
 --------------
