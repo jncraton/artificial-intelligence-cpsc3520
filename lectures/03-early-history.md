@@ -1,6 +1,17 @@
 Early History
 =============
 
+Automata
+--------
+
+- Self-operating machine
+- Follow pre-determined instructions
+- May mimic lifelike behavior
+
+---
+
+![Vaucanson's duck](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Digesting_Duck.jpg/483px-Digesting_Duck.jpg)
+
 1950s
 -----
 
