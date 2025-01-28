@@ -23,6 +23,7 @@ Ontologies
 
 - Formal representations of knowledge in a domain
 - Ontology engineering studies the methodologies for building useful ontologies
+- [More info](https://en.wikipedia.org/wiki/Ontology_(information_science))
 
 ---
 
@@ -60,10 +61,6 @@ Diameter(x) = 9.5 \land x \in Balls \Rightarrow \\
 x \in Basketballs
 \end{gather}
 $$
-
----
-
-![](https://imgs.xkcd.com/comics/tasks.png)
 
 ---
 
