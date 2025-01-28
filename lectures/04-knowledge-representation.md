@@ -1,5 +1,5 @@
-Logical Agents
-==============
+Knowledge Representation
+========================
 
 Knowledge-based agents
 ----------------------
