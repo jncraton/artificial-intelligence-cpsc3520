@@ -26,7 +26,7 @@ Cybernetic Robots
 -----------------
 
 - Developed in 1940s
-- Basic robots using analog cicuitry
+- Basic robots using analog circuitry
 - On early example is the [turtle](https://en.wikipedia.org/wiki/Turtle_(robot))
 
 Games
@@ -35,7 +35,7 @@ Games
 - Christopher Strachey wrote a checkers agent in 1951
 - Games have been used since that time to measure performance
 
-Congitive Revolution
+Cognitive Revolution
 --------------------
 
 - Intellectual movement toward the study of the mind and its processes
