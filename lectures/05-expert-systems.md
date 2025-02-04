@@ -2,7 +2,7 @@
 
 ## What are Expert Systems?
 
-- AI systems that mimic human decision-making
+- AI systems that mimic human decision making
 - Use knowledge and reasoning to solve complex problems
 
 ## Key Components
