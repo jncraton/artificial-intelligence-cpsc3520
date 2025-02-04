@@ -2,29 +2,42 @@
 
 ## What are Expert Systems?
 
-- AI systems that mimic human decision-making.
-- Use knowledge and reasoning to solve complex problems.
+- AI systems that mimic human decision-making
+- Use knowledge and reasoning to solve complex problems
 
 ## Key Components
 
-- **Knowledge Base**: Stores facts and rules.
-- **Inference Engine**: Applies rules to facts to derive new knowledge.
+- **Knowledge Base**: Stores facts and rules
+- **Inference Engine**: Applies rules to facts to derive new knowledge
 
 ## History
 
-- Developed in the 1970s and 1980s.
-- Pioneered by researchers like Edward Feigenbaum.
+- Developed in the 1970s and 1980s
+- Pioneered by researchers like Edward Feigenbaum
 
-## Example: MYCIN
+## MYCIN
 
-- Diagnosed bacterial infections.
-- Recommended antibiotics.
-- Achieved 69% accuracy, better than some human experts.
+- Early backward chaining expert system
+- Diagnosed bacterial infections
+- Recommended antibiotics
+- Achieved 65% accuracy, better than some human experts
+
+## Example Rule
+
+```lisp
+(defrule 52
+ if (site culture is blood)
+  (gram organism is neg)
+  (morphology organism is rod)
+  (burn patient is serious)
+ then .4
+  (identity organism is pseudomonas))
+```
 
 ## How They Work
 
-- **Forward Chaining**: Start with known facts, apply rules to derive new facts.
-- **Backward Chaining**: Start with a goal, work backward to find supporting facts.
+- **Forward Chaining**: Start with known facts, apply rules to derive new facts
+- **Backward Chaining**: Start with a goal, work backward to find supporting facts
 
 ## Forward Chaining Example
 
@@ -79,15 +92,15 @@ print(backward_chain(rules, goal, facts))
 
 ## Limitations
 
-- **Scalability**: Difficult to manage large knowledge bases.
-- **Maintenance**: Requires frequent updates and expert knowledge.
-- **Flexibility**: Limited to predefined rules and facts.
+- **Scalability**: Difficult to manage large knowledge bases
+- **Maintenance**: Requires frequent updates and expert knowledge
+- **Flexibility**: Limited to predefined rules and facts
 
 ## Modern Applications
 
-- **Medical Diagnosis**: IBM Watson for Oncology.
-- **Financial Services**: Fraud detection systems.
-- **Customer Support**: Chatbots and virtual assistants.
+- **Medical Diagnosis**: IBM Watson for Oncology
+- **Financial Services**: Fraud detection systems
+- **Customer Support**: Chatbots and virtual assistants
 
 ---
 
