@@ -88,7 +88,7 @@ print(backward_chain(rules, goal, facts))
 
 ---
 
-[Backward chaining](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BackwardChaining_David_C_England_1990_p21.gif/640px-BackwardChaining_David_C_England_1990_p21.gif)
+![Backward chaining](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BackwardChaining_David_C_England_1990_p21.gif/640px-BackwardChaining_David_C_England_1990_p21.gif)
 
 ## Limitations
 
