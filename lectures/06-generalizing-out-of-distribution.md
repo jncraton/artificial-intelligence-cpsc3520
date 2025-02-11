@@ -1,6 +1,30 @@
 Generalizing Out of Distribution
 ================================
 
+---
+
+- AI systems often fail in unfamiliar scenarios
+- Out-of-distribution (OOD) data poses significant challenges
+
+What is Out-of-Distribution?
+----------------------------
+
+- Data different from training set
+- Unseen or rare examples
+
+Why is OOD Important?
+---------------------
+
+- Real-world data is diverse and unpredictable
+- Safety and reliability in critical applications
+
+Common OOD Scenarios
+--------------------
+
+- New environments
+- Unseen object categories
+- Unexpected interactions
+
 Zillow Offers
 -------------
 
