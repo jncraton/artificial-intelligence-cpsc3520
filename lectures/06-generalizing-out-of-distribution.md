@@ -1,3 +1,8 @@
+Midterm Exam
+------------
+
+Wednesday, February 26th
+
 Generalizing Out of Distribution
 ================================
 
