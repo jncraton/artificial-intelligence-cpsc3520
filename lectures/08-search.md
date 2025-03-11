@@ -1,6 +1,12 @@
 Search
 ======
 
+---
+
+![Maze](https://upload.wikimedia.org/wikipedia/commons/8/88/Maze_simple.svg){height=540px}
+
+---
+
 Planning
 --------
 

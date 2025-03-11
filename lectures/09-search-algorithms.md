@@ -79,7 +79,6 @@ Performance
 - Using highly optimized software can help
 - Using very powerful hardware can help
 
-
 Heuristics
 ----------
 
