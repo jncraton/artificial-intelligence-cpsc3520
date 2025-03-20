@@ -19,13 +19,14 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Install deps
         run: |
-            sudo apt install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra ghostscript moreutils plantuml
+            sudo apt update
+            sudo apt install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra ghostscript moreutils plantuml
             pip install -r requirements.txt
       - name: Generate site
         run: make
