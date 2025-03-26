@@ -14,21 +14,6 @@ Stances
 2. Environment - consider agents as random elements of the environment
 3. Model opposing agent - treat the opposing agent as intelligent and consider their behavior
 
-Pruning
--------
-
-Our search space will generally be too large to fully explore, so we will prune branches that are not work pursuing
-
----
-
-How do we decide what to prune?
- 
-Pruning Decisions
------------------
-
-- Use a heuristic to determine who is winning in a given state
-- Or simulate many games from that state and use the average to determine the quality of the state
-
 Simple games
 ------------
 
@@ -41,7 +26,7 @@ Formal Definition
 -----------------
 
 - $S_0$ - the initial state
-- $To-Move(s)$ - the player whose turn it is in state `s`
+- $Player(s)$ - the player whose turn it is in state `s`
 - $Actions(s)$ - the set of legal moves in state `s`
 - $Result(a, a)$ - transition model
 - $IsTerminal(s)$ - True if game is over
@@ -101,7 +86,22 @@ Minimax complexity
 ------------------
 
 - Performs complete depth-first search
-- Exponential time performance for with the number of legal moves per turn and tree depth
+- Exponential time performance with the number of legal moves per turn and tree depth
+
+Pruning
+-------
+
+Our search space will generally be too large to fully explore, so we will prune branches that are not work pursuing
+
+---
+
+How do we decide what to prune?
+ 
+Pruning Decisions
+-----------------
+
+- Use a heuristic to determine who is winning in a given state
+- Or simulate many games from that state and use the average to determine the quality of the state
 
 Alpha-beta Pruning
 ------------------
