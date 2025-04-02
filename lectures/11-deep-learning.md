@@ -32,10 +32,19 @@
 
 - Won ImageNet competition
 - 8 layers, 60 million parameters
+- [Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
 ---
 
 ![AlexNet Architecture](https://upload.wikimedia.org/wikipedia/commons/a/a9/AlexNet_Original_block_diagram.svg)
+
+---
+
+"We trained the network for roughly 90 cycles through the training set of 1.2 million images, which took five to six days on two NVIDIA GTX 580 3GB GPUs"
+
+---
+
+"Our network achieves top-1 and top-5 test set error rates of 37.5% and 17.0%. The best performance achieved during the ILSVRC-2010 competition was 47.1% and 28.2%"
 
 ## Impact of AlexNet
 
@@ -62,17 +71,13 @@
 
 ![Transformer Block](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Transformer%2C_full_architecture.png/456px-Transformer%2C_full_architecture.png)
 
-## Societal Impacts
-
-- AI in healthcare, finance, and more
-- Ethical concerns
-- Job displacement
-
 ## Computing Power Today
 
 - Cloud computing
 - Specialized hardware (TPUs, etc.)
 - Training models on massive datasets
+
+## Societal Impacts
 
 ## Quotes
 
