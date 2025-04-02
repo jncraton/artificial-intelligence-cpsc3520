@@ -68,17 +68,17 @@ Minimax
 
 ```python
 def minimax(node, depth, maximizingPlayer):
-  if depth = 0 or node is terminal_node:
+  if node is terminal_node:
     return the heuristic value of node
   if maximizingPlayer:
     value = −∞
     for child in node:
-      value = max(value, minimax(child, depth − 1, FALSE))
+      value = max(value, minimax(child, FALSE))
     return value
   else: # Minimizing player
     value = +∞
     for child in node:
-      value = min(value, minimax(child, depth − 1, TRUE))
+      value = min(value, minimax(child, TRUE))
     return value
 ```
 
